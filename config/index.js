@@ -20,8 +20,8 @@ export const config = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: ["odh7t6hXbqxvOMKv43H7fqi0habA"]
-    {
+  USERS: ["odh7t6hXbqxvOMKv43H7fqi0habA","odh7t6myGjO3NS4Ni-BmEkddbnUI"]
+    
       // 想要发送的人的名字
       name: "猪宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
