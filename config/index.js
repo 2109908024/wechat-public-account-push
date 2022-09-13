@@ -93,7 +93,7 @@ export const config = {
       festivals: [],
       customizedDateList: []
     },
-    // 你可以不断按格式往下增加
+    // 1
     // ...
   ],
 
